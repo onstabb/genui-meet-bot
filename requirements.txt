@@ -1,3 +1,4 @@
 aiogram==2.8
 asyncpg==0.20.1
 geopy==1.21.0
+aiomongo==0.1
